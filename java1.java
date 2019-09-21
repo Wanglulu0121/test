@@ -1,7 +1,6 @@
 import java.util.*;
 public class First_shiyan {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		double sum=0,arg=0,max,min;
 		double a=0,b=0,c=0,d=0,e=0,f=0;
 		boolean flag=true;
